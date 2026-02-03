@@ -123,7 +123,9 @@ Use the existing section structure as a template to add new sections to the page
 
 ## Credits
 
-Created as a creative and minimal agency web template. Perfect for:
+**Design Credits:** This project is based on the free template design from [Graphberry](https://www.graphberry.com/item/leon-html-agency-template). The original design concept and layout were created by Graphberry and adapted for this implementation.
+
+Perfect template for:
 - Freelancers
 - Creative agencies
 - Portfolio websites
